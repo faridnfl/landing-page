@@ -1,0 +1,198 @@
+header {
+    overflow: hidden;
+    background-color: #1F2937;
+    padding: 15px 10px;
+  }
+
+  .header-right {
+    float: right;
+    margin-right: 100px;
+  }
+
+.headerOne {
+    margin: 15px;
+}
+
+.headerTwo {
+    margin: 15px;
+}
+
+.headerThree {
+    margin: 15px;
+}
+
+.logo {
+    margin-left: 150px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main {
+    background-color: #1F2937;
+    margin-top: -40px;
+    width: 100%;
+    height: 300px;
+}
+
+.tulisanPertama {
+    padding-top: 80px;
+    margin-left: 150px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tulisanKedua {
+    margin-left: 150px;
+    font-size: 30px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+
+.tulisanKetiga {
+    margin-left: 150px;
+    margin-top: -30px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.main-right {
+    float: right;
+    margin-top: -170px;
+    margin-right: 120px;
+   
+}
+
+.buttonMain {
+    margin-left: 150px;
+    color: white;
+    background-color: rgb(58, 109, 175);
+    padding: 5px 15px;
+    margin-bottom: 80px;
+ 
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: #ffffff;
+    border: 2px solid rgb(95, 95, 255);
+    display: inline-block;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: -15px;
+  }
+
+  .square2 {
+    height: 100px;
+    width: 100px;
+    background-color: #ffffff;
+    border: 2px solid rgb(95, 95, 255);
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 20px;
+    margin-bottom: -15px;
+    
+  }
+
+  .square3 {
+    height: 100px;
+    width: 100px;
+    background-color: #ffffff;
+    border: 2px solid rgb(95, 95, 255);
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 30px;
+    margin-bottom: -15px;
+  }
+
+  .square4 {
+    height: 100px;
+    width: 100px;
+    background-color: #ffffff;
+    border: 2px solid rgb(95, 95, 255);
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+  }
+
+.infoOne {
+    margin-inline-end: 40px;
+    margin-inline-start: 60px;
+}
+
+.infoTwo {
+    margin-inline-end: 40px;
+    
+}
+
+.infoThree {
+    margin-inline-end: 40px;
+}
+
+.infoFour {
+    margin-inline-end: 40px;
+}
+
+.quote-page {
+    margin-top: 40px;
+    width: 100%;
+    height: 250px;
+    background-color: #cfcfcf8f;
+}
+
+.quote {
+    padding-top: 60px;
+}
+
+.thor {
+    margin-left: 60%;
+}
+
+.signup {
+    width: 100%;
+    height: 200px;
+}
+
+.kotakBiru {
+    background-color: rgb(53, 124, 255);
+    width: 70%;
+    height: 100px;
+    margin-top: 80px;
+    margin-left: 170px;
+}
+
+.tulisanKiri {
+    margin-left: 90px;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-bottom: -20px;
+}
+
+.tulisanBawah {
+    margin-left: 90px;
+
+   
+}
+
+.signupBawah {
+    float: right;
+    color: white;
+    border: 2px solid white;
+    background-color: rgb(53, 124, 255);
+    margin-right: 70px;
+    margin-top: -50px;
+    font-size: 20px;
+    padding: 5px 15px;
+}
+
+.footer {
+    background-color: #1F2937;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
